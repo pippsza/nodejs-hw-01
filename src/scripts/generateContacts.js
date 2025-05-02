@@ -10,9 +10,6 @@ const generateContacts = async (number) => {
     contactsSafe.push(createFakeContact());
   }
   for (let item of contactsSafe) {
-    if (allData == null) {
-      writeContacts({});
-    }
     allData.push(item);
   }
   writeContacts(allData);
