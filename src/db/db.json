@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "cdb37c0e-de03-4667-9064-35858a1b1684",
+    "name": "Alonzo Muller",
+    "phone": "1-566-219-2762 x378",
+    "email": "Carol88@yahoo.com",
+    "job": "National Data Analyst"
+  },
+  {
+    "id": "7b002303-2fcc-4dac-b456-aaf12f92df4e",
+    "name": "Mr. Adam Crona",
+    "phone": "(847) 812-3217 x57953",
+    "email": "Kolby73@hotmail.com",
+    "job": "Future Metrics Planner"
+  },
+  {
+    "id": "a72ba8fe-2aea-42cc-b199-b68ceb08ef30",
+    "name": "Wallace Stehr",
+    "phone": "(748) 396-0532 x3244",
+    "email": "Margarita_Schneider@yahoo.com",
+    "job": "Product Mobility Engineer"
+  },
+  {
+    "id": "b13d9840-b27e-4b76-9108-097881452628",
+    "name": "Boyd Swift",
+    "phone": "(226) 441-5283 x84742",
+    "email": "Anibal.McGlynn@hotmail.com",
+    "job": "Central Mobility Specialist"
+  },
+  {
+    "id": "7187240e-2378-4548-a05b-f7875418455c",
+    "name": "Courtney Russel",
+    "phone": "371.461.0461",
+    "email": "Oran13@yahoo.com",
+    "job": "Future Operations Director"
+  },
+  {
+    "id": "82f1d638-5bce-41f5-8a23-4d2696ac2116",
+    "name": "Fannie Upton",
+    "phone": "751-335-5201 x9712",
+    "email": "Halie38@hotmail.com",
+    "job": "Senior Web Officer"
+  }
+]
